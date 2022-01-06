@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "903193986047",
+    "project_id": "menucafe-4907c",
+    "storage_bucket": "menucafe-4907c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:903193986047:android:19090deb47e941dcea9dca",
+        "android_client_info": {
+          "package_name": "com.praktikum.datateman"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "903193986047-b3t2eirderm8as1526ipc0714f34hn8t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBP12e7SiZHJPebjJjuTr-aHFMkl6zqjsA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "903193986047-b3t2eirderm8as1526ipc0714f34hn8t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
